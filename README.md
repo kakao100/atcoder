@@ -10,5 +10,5 @@ atcoder の記録を残すレポジトリです。
 mk.sh|日付ディレクトリ生成スクリプト
 
 日付に移動
-` cd \`bash today\` ` 
+` cd `bash today` ` 
 
